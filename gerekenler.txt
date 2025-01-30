@@ -1,0 +1,7 @@
+VSCode Program
+https://code.visualstudio.com/download
+
+
+Python (VSCode'a eklemek için)
+https://www.python.org/downloads/
+
